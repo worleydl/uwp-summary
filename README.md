@@ -6,8 +6,10 @@ Not all ports include a build, in such cases you should build your own bundle or
 ## Native Ports
 - [2Ship2Harkinian](https://github.com/worleydl/2ship2dev)
 - [Dhewm3](https://github.com/worleydl/dhewm3-uwp)
+- [DinoRecomp](https://github.com/worleydl/dino-recomp-uwp)
 - [DxxRebirth](https://github.com/worleydl/dxx-rebirth-uwp)
 - [IkemenGO](https://github.com/worleydl/Ikemen-GO-dev)
+- [Goemon64Recomp](https://github.com/worleydl/Goemon64Recomp-uwp)
 - [MarioKart64Recomp](https://github.com/worleydl/MarioKart64Recomp-uwp)
 - [OpenBOR](https://github.com/worleydl/openbor-dev)
 - [OpenJKDF2](https://github.com/worleydl/OpenJKDF2-uwp)
